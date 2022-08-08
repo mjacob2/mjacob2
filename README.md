@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mjacob2
+- 👀 I’m interested in .NET and c#
+- 🌱 I’m currently learning REST API
+- 📫 jakubicki.m@gmail.com
